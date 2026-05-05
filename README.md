@@ -2,7 +2,7 @@
 
 Beveled, light-reactive metallic text rendered with a Metal SDF shader.
 
-![demo](img/bevel_demo.gif)
+<img src="img/bevel_demo.gif" width="400" alt="demo" />
 
 ## How it works
 
